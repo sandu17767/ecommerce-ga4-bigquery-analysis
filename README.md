@@ -1,3 +1,4 @@
+<img width="1886" height="1100" alt="Screenshot 2026-03-25 171946" src="https://github.com/user-attachments/assets/b1096739-891b-4dfe-ae20-04a17513b7f5" />
 # 📊 Ecommerce Performance Analysis — Google Analytics 4 × BigQuery
 
 > **"77% of visitors never saw a single product. The problem wasn't checkout — it was discovery."**
